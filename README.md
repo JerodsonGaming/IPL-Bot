@@ -26,7 +26,7 @@ client.on('message', message => {
 
 // THIS  MUST  BE  THIS  WAY
 
-client.login(process.env.NzcyNzQyMDg2NTc0NzM1NDAx.X5_GJg.Ugc3DeTuFUe-EyeM2pFRnsiPW-c);//where NzcyNzQyMDg2NTc0NzM1NDAx.X5_GJg.Ugc3DeTuFUe-EyeM2pFRnsiPW-c is the token of our bot
+client.login(process.env.BOT_TOKEN);//where BOT_TOKEN is the token of our bot
 {
 
   "name": "IPL Bot",
