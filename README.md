@@ -29,9 +29,9 @@ client.on('message', message => {
 client.login(process.env.BOT_TOKEN);//where BOT_TOKEN is the token of our bot
 {
 
-  "name": "IPL Bot",
+  "name": "Test",
 
-  "description": "For IPL",
+  "description": "Test",
 
   "version": "0.0.0",
 
